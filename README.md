@@ -2,7 +2,7 @@ Hi, I'm Andres Camacho
 
 Aspiring IT Support Specialist with a Cisco Certified Support Technician (CCST) IT Support certification. I am currently pursuing a Bachelor of Science in Cybersecurity at Western Governors University and building hands-on experience in end-user support, Windows troubleshooting, networking, and security.
 
-About Me
+         About Me
 
 Based in Chicago, Illinois
 
@@ -14,7 +14,7 @@ Focused on entry-level Help Desk and IT Support opportunities
 
 Building practical projects that demonstrate troubleshooting, documentation, and customer support skills
 
-Technical Skills
+          Technical Skills
 
 Windows 10 and Windows 11 support
 
@@ -28,7 +28,7 @@ Cybersecurity and phishing-awareness fundamentals
 
 Customer service, data entry, prioritization, and clear communication
 
-Project Roadmap
+           Project Roadmap
 
 Help Desk Ticketing System
 
